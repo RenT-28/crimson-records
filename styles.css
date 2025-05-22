@@ -1,9 +1,9 @@
-.main-bg {
-    display: grid;
-    background-size: auto;
+body {
+    background-size: cover;
     background-image: url(https://raw.githubusercontent.com/RenT-28/crimson-records/refs/heads/main/mediastore/mainbg.png);
     background-repeat: no-repeat;
     background-attachment: fixed;
+    background-position: center;
     margin: 0;
     overflow-x: hidden
 
